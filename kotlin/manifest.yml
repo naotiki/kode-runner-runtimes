@@ -6,8 +6,8 @@ alias:
   - kotlin
   - kt
 metaData:
-  version: 1.9.10
-  processor: JVM
+  version: 1.9.10 (JRE 17.0.9+9)
+  processor: kotlinc
 commands:
   prepare: null
   compile: 'kotlinc -include-runtime Main.kt -d out.jar'

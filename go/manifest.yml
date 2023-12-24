@@ -5,8 +5,8 @@ extension: go
 alias:
   - go
 metaData:
-  version: "?"
-  processor: "?"
+  version: "1.10.6"
+  processor: "go"
 commands:
   prepare: null
   compile: null

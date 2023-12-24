@@ -6,8 +6,8 @@ alias:
   - rust
   - rs
 metaData:
-  version: 1.73
-  processor: "?"
+  version: 1.73.0
+  processor: rustc
 commands:
   prepare: null
   compile: 'rustc main.rs'

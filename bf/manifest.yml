@@ -6,8 +6,8 @@ alias:
   - brainfuck
   - bf
 metaData:
-  version: "?"
-  processor: "?"
+  version: "20041219"
+  processor: "bf"
 commands:
   prepare: null
   compile: null

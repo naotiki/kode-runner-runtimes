@@ -6,8 +6,8 @@ alias:
   - csharp
   - cs
 metaData:
-  version: "?"
-  processor: "?"
+  version: "7.0.404"
+  processor: "dotnet"
 commands:
   prepare: null
   compile: null

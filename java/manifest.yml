@@ -5,8 +5,8 @@ extension: java
 alias:
   - java
 metaData:
-  version: 17
-  processor: 'Eclipse Temurin JDK'
+  version: 'Temurin-17.0.9+9'
+  processor: 'java'
 commands:
   prepare: null
   compile: 'javac Main.java'

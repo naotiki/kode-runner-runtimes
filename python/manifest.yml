@@ -6,8 +6,8 @@ alias:
   - python
   - py
 metaData:
-  version: "?"
-  processor: "?"
+  version: 3.12.0
+  processor: python
 commands:
   prepare: null
   compile: null

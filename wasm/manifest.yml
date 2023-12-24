@@ -6,7 +6,7 @@ alias:
   - wasm
   - wat
 metaData:
-  version: "?"
+  version: 15.0.1
   processor: wasmtime
 commands:
   prepare: null

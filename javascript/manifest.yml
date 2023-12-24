@@ -6,8 +6,8 @@ alias:
   - javascript
   - js
 metaData:
-  version: 18
-  processor: Node.js
+  version: 18.18.2
+  processor: node
 commands:
   prepare: null
   compile: null

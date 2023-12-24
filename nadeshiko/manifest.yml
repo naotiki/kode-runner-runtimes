@@ -7,8 +7,8 @@ alias:
   - なでしこ
   - nako3
 metaData:
-  version: "?"
-  processor: cnako
+  version: 3.4.23
+  processor: cnako3
 commands:
   prepare: null
   compile: null

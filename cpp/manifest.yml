@@ -6,8 +6,8 @@ alias:
   - c++
   - cpp
 metaData:
-  version: "?"
-  processor: "?"
+  version: "11.4.0"
+  processor: "gcc"
 commands:
   prepare: null
   compile: 'g++ Main.cpp -o out'
