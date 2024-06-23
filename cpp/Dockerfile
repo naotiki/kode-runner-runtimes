@@ -1,9 +1,9 @@
-FROM ubuntu:22.04
+FROM gcc:14.1.0
 
 USER root
 
 # 依存パッケージインストール
-RUN apt update && apt install build-essential -y
+
 
 # ユーザー設定
 ARG USERNAME=runner
