@@ -6,7 +6,7 @@ alias:
   - kotlin
   - kt
 metaData:
-  version: 1.9.10 (JRE 17.0.9+9)
+  version: 2.0.0 (JRE 17.0.9+9)
   processor: kotlinc
 commands:
   prepare: null

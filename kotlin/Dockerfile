@@ -1,6 +1,6 @@
 FROM eclipse-temurin:17-jdk
 # 変数
-ARG KOTLIN_COMPILER_URL="https://github.com/JetBrains/kotlin/releases/download/v1.9.10/kotlin-compiler-1.9.10.zip"
+ARG KOTLIN_COMPILER_URL="https://github.com/JetBrains/kotlin/releases/download/v2.0.0/kotlin-compiler-2.0.0.zip"
 
 USER root
 

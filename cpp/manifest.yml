@@ -6,9 +6,9 @@ alias:
   - c++
   - cpp
 metaData:
-  version: "14.1.0"
-  processor: "gcc"
+  version: "gnu++23"
+  processor: "gcc 14.1.0"
 commands:
   prepare: null
-  compile: 'g++ Main.cpp -o out'
+  compile: 'g++ -std=gnu++23 Main.cpp -o out'
   execute: './out'

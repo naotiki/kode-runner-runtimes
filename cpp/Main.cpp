@@ -1,5 +1,6 @@
-#include <iostream>
-using namespace std;
+#include <print>
+
 int main(){
-    cout << "Hello World!" << endl;
+  std::println("Hello World!");
+  return 0;
 }

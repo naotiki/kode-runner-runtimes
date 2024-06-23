@@ -5,9 +5,9 @@ extension: c
 alias:
   - c
 metaData:
-  version: "14.1.0"
-  processor: "gcc"
+  version: "gnu23"
+  processor: "gcc 14.1.0"
 commands:
   prepare: null
-  compile: 'gcc main.c -o out'
+  compile: 'gcc -std=gnu23 main.c -o out'
   execute: './out'
