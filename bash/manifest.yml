@@ -1,0 +1,14 @@
+id: bash
+name: Bash
+sourcefileName: main.sh
+extension: sh
+alias:
+  - bash
+  - sh
+metaData:
+  version: "5.1.16"
+  processor: bash
+commands:
+  prepare: null
+  compile: null
+  execute: 'bash main.sh'
